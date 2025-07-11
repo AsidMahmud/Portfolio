@@ -70,3 +70,24 @@ nav ul{
 .ban-pro{
     width: 580px;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+}
+.sec-des{
+    font-size: 18px;
+
+}
+.sec-bg{
+    background-color: #fff8f3;
+}
